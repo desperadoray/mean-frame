@@ -1,4 +1,22 @@
-# mean-frame
-<code>npm install</code></br>
-<code>node start</code></br>
-*make sure you have mongoDB available at localhost:27017
+# MEANauthapp
+
+Complete MEAN stack application with authentication using json web tokens
+
+### Version
+1.0.0
+
+## Usage
+
+
+### Installation
+
+Install the dependencies
+
+```sh
+$ npm install
+```
+Run app
+
+```sh
+$ npm start
+```

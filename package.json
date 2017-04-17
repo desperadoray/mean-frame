@@ -17,6 +17,6 @@
     "passport":"*",
     "passport-jwt":"*"
   },
-  "author": "RAY",
+  "author": "RayZ",
   "license": "ISC"
 }

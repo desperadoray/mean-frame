@@ -1,13 +1,4 @@
-
-button{
-	font-family: "serials arial";
-}
-
-
-a{
-	font-family: "serials arial";
-}
-
-body {
-	font-family: "Supermercado One";
+body{
+	padding-top : 40px;
+	margin-top: 60px;
 }
